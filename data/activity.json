@@ -1,0 +1,50 @@
+[
+  {
+    "id": "8ac52d09-62af-4ee8-8801-1d7563204713",
+    "createdAt": "2026-04-14T19:55:39.472Z",
+    "vehicleId": "fe026a7d-c75c-41e3-95fd-3d0e98ea5f7f",
+    "vehicleLabel": "2022 Toyota Camry XSE",
+    "type": "create",
+    "message": "Added 2022 Toyota Camry XSE to inventory at $24,995."
+  },
+  {
+    "id": "09dc13f6-e3e0-4748-ad37-b7ab504e880c",
+    "createdAt": "2026-04-14T19:47:27.776Z",
+    "vehicleId": "veh-1002",
+    "vehicleLabel": "2021 Ford F-150 XLT",
+    "type": "status",
+    "message": "2021 Ford F-150 XLT moved to recon."
+  },
+  {
+    "id": "8d56fa88-879b-47c5-83f2-fd4c564bd19a",
+    "createdAt": "2026-04-14T19:47:27.772Z",
+    "vehicleId": "veh-1002",
+    "vehicleLabel": "2021 Ford F-150 XLT",
+    "type": "status",
+    "message": "2021 Ford F-150 XLT moved to frontline ready."
+  },
+  {
+    "id": "act-2001",
+    "vehicleId": "veh-1005",
+    "vehicleLabel": "2019 BMW 330i Sport",
+    "type": "recon",
+    "message": "BMW 330i Sport remains in recon and is now 72 days on lot.",
+    "createdAt": "2026-04-14T09:55:00.000Z"
+  },
+  {
+    "id": "act-2002",
+    "vehicleId": "veh-1004",
+    "vehicleLabel": "2023 Chevrolet Tahoe LT",
+    "type": "hold",
+    "message": "Chevrolet Tahoe LT moved to hold pending lender paperwork.",
+    "createdAt": "2026-04-14T11:30:00.000Z"
+  },
+  {
+    "id": "act-2003",
+    "vehicleId": "veh-1003",
+    "vehicleLabel": "2020 Honda CR-V EX-L",
+    "type": "aging",
+    "message": "Honda CR-V EX-L crossed the 60-day threshold and needs desk review.",
+    "createdAt": "2026-04-13T16:40:00.000Z"
+  }
+]
